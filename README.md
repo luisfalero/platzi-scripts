@@ -1,3 +1,3 @@
 # Scripts
 
-Dummy tests are in `jenkins-tests`
+Luis tests are in `jenkins-tests`
